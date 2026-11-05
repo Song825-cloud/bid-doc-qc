@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行产物与临时输出
+*.log
+parsed/
+output/
+*.tmp
+~$*
+
+# 真实业务文件（禁止入库）
+*.docx
+*.doc
+*.pdf
+*.xlsx
+*.xls
+投标文件/
+招标文件/
+qc/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
