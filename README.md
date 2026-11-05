@@ -59,7 +59,7 @@
 3. **克隆到技能目录**（便于跟随更新）：
 
 ```bash
-git clone https://github.com/<your-name>/bid-doc-qc.git ~/.workbuddy/skills/bid-doc-qc
+git clone https://github.com/Song825-cloud/bid-doc-qc.git ~/.workbuddy/skills/bid-doc-qc
 ```
 
 安装后重启 WorkBuddy，对话中提到「标书质检 / 四重质检 / 审标书」即可触发。
